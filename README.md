@@ -48,7 +48,7 @@ To understand modern AI interaction design patterns, I reviewed several leading 
 
 A clean, simple mockup was created in Figma for layout and component mapping.
 
- Figma Design: *Insert link here*
+ Figma Design: https://www.figma.com/design/qMeKZ0FApBQSdv2s9qwSXY/AI-Playground-%E2%80%93-Frontend-Assessment?node-id=0-1&t=5tUBnJwFQ9lWoMCq-1
 
  Layout Structure
 - Sidebar (Left)  
@@ -77,7 +77,7 @@ A clean, simple mockup was created in Figma for layout and component mapping.
 
 ---
 
- 3.  Development
+ 3. Development
 
 The project uses:
 
